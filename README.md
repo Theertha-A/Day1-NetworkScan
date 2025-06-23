@@ -13,7 +13,7 @@ Scan the local network for open ports using Nmap and analyze results.
 - Found one open port: 53/tcp (DNS service)
 - Captured packets using Wireshark and filtered TCP SYN packets
 - Identified potential risks from open DNS port 
-- Documented the entire process in a `.docx` report
+- Documented the entire process in a `.pdf` report
 
 ## Files Included
 - `Theertha-A_Task1.pdf`: Final report with screenshots
